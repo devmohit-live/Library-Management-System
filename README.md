@@ -23,10 +23,12 @@ Having Admin and Librarian Module..
 <h1>Librarian Module</h1>
 <p>Having the following functionalities:</p>
 <ul>
-	<li>Add a Librarian</li>
-	<li>Remove a Librarian</li>
-	<li>View Librarians</li>
-	<li>Log out Session</li>
+	<li>Add a New Book</li>
+	<li>Add a New Students</li>
+	<li>Issue a Book</li>
+	<li>Return Book</li>
+	<li>Statics</li>
+	<li>About</li>
 </ul>
 
 
