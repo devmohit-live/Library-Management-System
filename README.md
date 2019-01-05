@@ -1,9 +1,7 @@
 # Library-Management-System
-A library management system app on java.
-# Library-Managent-System
-A Libaray Management System on Java.
+<p>A Libaray Management System on Java.
 Having Admin and Librarian Module..
-
+</p>
 <h1>Admin Module</h1>
 <p>Having the following functionalities:</p>
 <ul>
@@ -13,7 +11,7 @@ Having Admin and Librarian Module..
 	<li>Log out Session</li>
 </ul>
 
-<p>Login :</p>
+<b font size='6'>Login :</b>
 <ul>
 	<l1>Admin Login</l1>
 	<l1>Librarian login</l1>
@@ -32,7 +30,7 @@ Having Admin and Librarian Module..
 </ul>
 
 
-Third Parties Libraries used:
+<b font size='6'>Third Parties Libraries used::</b>
 <li>Jtatto</li>
 <dd>For Look And Feel of Application</dd>
 <li>rx2xml</li>
@@ -41,7 +39,7 @@ Third Parties Libraries used:
 <dd>To Show Calendar/Date Elements</dd>
 
 
-Database:
+<b font size='6'>Database:</b>
 <h2>Mysql</h2>
 <p>JDBC Driver:mysql_5.15</p>
 
