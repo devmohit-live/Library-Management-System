@@ -22,3 +22,5 @@ jobs:
         java-version: 1.8
     - name: Build with Ant
       run: ant -noinput -buildfile build.xml
+    - name: Articat
+      run: mvn deploy -Dregistry=https://maven.pkg.github.com/devmohit-live -Dtoken=GH_TOKEN
